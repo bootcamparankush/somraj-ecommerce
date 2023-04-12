@@ -9,6 +9,7 @@
   * [Mockup](#Mockup)
   * [Licenses](#licenses)
   * [Contributing](#contributing)
+  * [Links] (#LinkstorecordingofInsomnia)
   * [Tests](#tests)
   * [Questions](#questions)
   * [Credits](#credits)
@@ -31,6 +32,10 @@ SO THAT my company can compete with other e-commerce companies
 ![image](https://user-images.githubusercontent.com/120338398/231562415-4937bf19-623b-49e2-9d53-bb0375dc923f.png)
 ![ecommerce-1](https://user-images.githubusercontent.com/120338398/231562537-635fd0c0-719d-4ccf-a909-acf8dcae6062.JPG)
 
+## Links to recording of Insomnia
+https://youtu.be/djfDS5Mgr3s
+https://youtu.be/LqqWkGa5Xx0
+https://youtu.be/SEpPMsKuNtA
 ## Contributing
 Parankush Somraj - Student , Rutgers Bootcamp
 

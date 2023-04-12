@@ -26,12 +26,10 @@ Because this application won’t be deployed, you’ll also need to provide a li
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
-```
+
 ## Mockup
 ![image](https://user-images.githubusercontent.com/120338398/231562415-4937bf19-623b-49e2-9d53-bb0375dc923f.png)
 ![ecommerce-1](https://user-images.githubusercontent.com/120338398/231562537-635fd0c0-719d-4ccf-a909-acf8dcae6062.JPG)
-
-
 
 ## Contributing
 Parankush Somraj - Student , Rutgers Bootcamp

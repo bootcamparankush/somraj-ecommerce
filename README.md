@@ -33,9 +33,10 @@ SO THAT my company can compete with other e-commerce companies
 ![ecommerce-1](https://user-images.githubusercontent.com/120338398/231562537-635fd0c0-719d-4ccf-a909-acf8dcae6062.JPG)
 
 ## Links to recording of Insomnia
-https://youtu.be/djfDS5Mgr3s
-https://youtu.be/LqqWkGa5Xx0
-https://youtu.be/SEpPMsKuNtA
+- https://youtu.be/djfDS5Mgr3s
+- https://youtu.be/LqqWkGa5Xx0
+- https://youtu.be/SEpPMsKuNtA
+
 ## Contributing
 Parankush Somraj - Student , Rutgers Bootcamp
 
